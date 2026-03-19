@@ -1,3 +1,6 @@
-node_modules
+#node_modules
 *.vsix
 .env
+
+#that specific quickstart file
+vsc-extension-quickstart.md
