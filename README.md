@@ -2,4 +2,4 @@
 
 A dark Visual Studio Code theme.
 
-![screenshot showing theme in action](image.png)
+![screenshot showing theme in action](screenshot.png)
